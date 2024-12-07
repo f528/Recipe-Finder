@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
+import RecipeCard from './assets/components/RecipeCard'
 import './App.css'
 
 function App() {
